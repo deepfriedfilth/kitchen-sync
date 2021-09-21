@@ -1,0 +1,1 @@
+alias bashrc="nano ~/.bash_profile; source ~/.bash_profile"
